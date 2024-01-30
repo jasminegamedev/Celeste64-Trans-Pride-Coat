@@ -11,3 +11,11 @@ To install simply copy and paste the Models folder into the games Content folder
 # Changing to normal
 
 To revert to the default skin, open the models folder and delete or rename the player.glb file, then rename the player_default.glb file to just player.glb
+
+# Disclaimer
+
+Note: This is not made or endorsed by ExKO games, and is a fan project. Please check out their github page for this game for details.
+https://github.com/ExOK/Celeste64
+
+Also the game itself can be found here:
+https://maddymakesgamesinc.itch.io/celeste64
