@@ -1,4 +1,4 @@
-# Celeste64-Trans-Jacket
+# Celeste64 Trans Pride Coat
 This is a super simple mod for Celeste 64 that adds a trans pride themed coat skin.
 ![image](https://github.com/jasminegamedev/Celeste64-Trans-Jacket/assets/85134947/bca61d1e-3866-4896-8544-eff9cdb8e681)
 
