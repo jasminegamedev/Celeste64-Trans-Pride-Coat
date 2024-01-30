@@ -4,7 +4,7 @@ This is a super simple mod for Celeste 64 that adds a trans pride themed coat sk
 
 # Installation
 
-To install simply copy and paste the Models folder into the games Content folder
+To install simply copy and paste the Models folder into the games Content folder. If it asks you to overwrite the player.glb file, say yes.
 
 # Changing to normal
 
